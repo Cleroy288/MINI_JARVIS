@@ -42,9 +42,13 @@ Vous devez créer un fichier clef.txt contenant vos clés API personnelles. Voic
 -----------------------------------------------
 
 elevenlabs ==> VOTRE_CLE_ELEVENLABS
+
 chat gpt ==> VOTRE_CLE_CHATGPT
+
 openweather ==> VOTRE_CLE_OPENWEATHER
+
 google_cse_cx ==> VOTRE_CLE_GOOGLE_CSE_CX
+
 google_cse ==> VOTRE_CLE_GOOGLE_CSE
 
 -----------------------------------------------
