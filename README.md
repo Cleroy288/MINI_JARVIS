@@ -40,11 +40,13 @@ Fichier de Clés API (clef.txt)
 Vous devez créer un fichier clef.txt contenant vos clés API personnelles. Voici le format attendu :
 
 -----------------------------------------------
+
 elevenlabs ==> VOTRE_CLE_ELEVENLABS
 chat gpt ==> VOTRE_CLE_CHATGPT
 openweather ==> VOTRE_CLE_OPENWEATHER
 google_cse_cx ==> VOTRE_CLE_GOOGLE_CSE_CX
 google_cse ==> VOTRE_CLE_GOOGLE_CSE
+
 -----------------------------------------------
 Cryptage des Clés
 Pour plus de sécurité, vous pouvez crypter vos clés API :
